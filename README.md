@@ -1,1 +1,3 @@
-blender tutorial
+Blender tutorial
+Result:
+![Game console render](./game_console.png)
