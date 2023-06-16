@@ -8,6 +8,7 @@
 - Add randomness to the grass color using Object Info and ColorRamp
 - Add contrast using Noise Texture, then mixing it with Object Info (use Overlay)
 
+![Grass](./rendered_grass.png)
 
 
 
